@@ -1,7 +1,7 @@
 # Chatbot-via-IBM-watson
 a chatbot for a flower store for give the direction to users if anyone have any kind of doubt
 
-# [live demo](https://chetanjain.intelaedu.com/)
+# [live demo](https://integrations.us-south.assistant.watson.cloud.ibm.com/web/public/460a7aa1-7d72-460c-9ef1-bf0b33a40f5e)
 
 ## Inner look
 ![Test Image 1](/output1.png)
